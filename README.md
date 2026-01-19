@@ -17,6 +17,7 @@ The dashboard acts as a decision-support tool for:
 
 📸 Dashboard Screenshots
 ![Startup Dashboard](https://github.com/Ruchir-29/STARTUP-FINDING/blob/main/Screenshot%202025-12-24%20014621%20(1).png?raw=true)
+![Startup Dashboard](https://github.com/Ruchir-29/STARTUP-FINDING/blob/main/Screenshot%202025-12-24%20014653.png?raw=true)
 
 
 
