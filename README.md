@@ -16,7 +16,7 @@ The dashboard acts as a decision-support tool for:
 • 📅 Year-wise Analysis (2020–2025) using slicers • 💰 Total Investment Amount (USD) overview • 🏭 Industry-wise Funding Distribution • 🧑‍💼 Investor Count & Investment Stage Analysis • 🏙️ City-wise Funding Comparison • 📈 Interactive visuals for deep exploration
 
 📸 Dashboard Screenshots
-![Dashboard Screenshot](Screenshot 2025-12-24 014621 (1).png)
+![Dashboard Screenshot](Screenshot%2025-12-20%014621(1).png)
 ![Dashboard Screenshot](Screenshot%202025-12-20.png)
 ![Dashboard Screenshot](Screenshot%202025-12-20.png)
 
